@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">一键卸载垃圾APP</string>
+    <string name="settting_title">选择卸载APP白名单</string>
+    <string name="choose_all">全选</string>
+    <string name="choose_all_not">全不选</string>
+    <string name="uninstall_tip">点我卸载垃圾APP</string>
+    <string name="uninstall_empty">暂无垃圾APP</string>
+    <string name="use_tip">一键卸载手机上的垃圾APP，专门为老年人设计的APP，解决老年人手机不小心点了广告，导致下载一堆垃圾APP让手机严重卡顿的场景。\n\n首次使用时请点击右上角的图标进入设置页面，然后勾选不需要卸载的白名单APP，比如系统APP和老年人常用的APP。\n\n后续使用手机感觉卡顿时，只需要点击主页的“点我卸载垃圾APP”按钮，然后会弹出卸载弹窗，一直点击“确认”即可。</string>
+</resources>
